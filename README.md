@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **3137181992@qq.com**
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowenyoung&show_icons=true&locale=en&theme=blue-green" alt="bowenyoung" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/felixchen0707.cn/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="felixchen0707.cn/atom.xml" height="30" width="40" /></a>
