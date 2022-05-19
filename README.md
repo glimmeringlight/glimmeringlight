@@ -1,3 +1,4 @@
+<p align="center"><img src="header.png"></p>
 <h1 align="center">Hi 👋, I'm Felix_Chen0707</h1>
 <h3 align="center">A learner who is interested in crytography and IS.</h3>
 
