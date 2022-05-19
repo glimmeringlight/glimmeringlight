@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **3137181992@qq.com**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowenyoung&show_icons=true&locale=en&theme=blue-green" alt="bowenyoung" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowenyoung&show_icons=true&locale=en&theme=blue-green" alt="felixchen0707" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
