@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixchen0707](https://github.com/felixchen0707)
 
-- 📝 I regularly share my learing experience on [my website](www.felixchen0707.cn)
+- 📝 I regularly share my learing experience on [my website](https://www.felixchen0707.cn)
 
-- 📫 You can reach me through [chenjw@qq.com](emailto:chenjw@qq.com)
+- 📫 You can reach me through [chenjw@qq.com](mailto:chenjw@qq.com)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixchen0707&show_icons=true&locale=en&theme=blue-green" alt="felixchen0707" /></p>
 
