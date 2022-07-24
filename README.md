@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Felix_Chen0707</h1>
 <h3 align="center">A learner who is interested in crytography and IS.</h3>
-
+<!-- -->
 - 🔭 I’m currently working on [My Blog](www.felixchen0707.cn)
-
-- 🌱 I’m currently learning **Crytography and IS**
+<!-- -->
+- 🌱 I’m currently learning **django and HTML/CSS/JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixchen0707](https://github.com/felixchen0707)
 
-- 📝 I regularly write articles on [www.felixchen0707.cn](www.felixchen0707.cn)
+- 📝 I regularly share my learing experience on [my website](www.felixchen0707.cn)
 
-- 📫 How to reach me **3137181992@qq.com**
+- 📫 You can reach me through [chenjw@qq.com](emailto:chenjw@qq.com)
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixchen0707&show_icons=true&locale=en&theme=blue-green" alt="felixchen0707" /></p>
 
