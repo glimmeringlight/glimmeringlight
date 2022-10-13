@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Felix_Chen0707
+# Hi there 👋, I'm Felix Chen
 <h3 align="center">A learner who is majoring in BME.</h3>
 
 <!-- - 🔭 I’m currently working on [My Blog](www.felixchen0707.cn)-->
